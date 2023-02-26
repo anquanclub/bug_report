@@ -2,8 +2,6 @@
 
 BUG_Author:muhan
 
-Website source address: https://www.sourcecodester.com/php/11332/class-and-exam-timetabling.html
-
 Vulnerability File: /admin/index3.php
 
 POST parameter 'password' exists SQL injection vulnerability
